@@ -1,0 +1,203 @@
+/* start first part */
+
+body{
+    background-color: gainsboro;
+    
+    font-family: 'Merriweather', serif;
+}
+.h1{
+    color: blue;
+    font-size: 60px;
+}
+p{
+    text-align: justify;
+}
+.first-sec-div{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1px;
+}
+img{
+    width: 500px;
+    margin-left: 200px;
+}
+.first-sec{
+    background-image: url("images/header-bg.png");
+    background-repeat: repeat;
+    
+    
+}
+
+.first-sec-link{
+    text-decoration: none;
+    background-color: blue;
+    color: floralwhite;
+    border-radius: 2px;
+    margin: 10px;
+    padding: 5px;
+}
+
+/* finished first part */
+
+
+
+
+/* start second part */
+
+
+.second-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+
+
+.half-width1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.image2{
+    width: 89%;
+    
+}
+
+section{
+    height: 500px;
+    padding-bottom: :130px;
+}
+
+
+/* finished second part */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* start work part */
+.work-section{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    margin-top: :40px;
+
+}
+
+
+.imgg{
+    width: 230px;
+}
+
+
+/* finished work part */
+
+
+
+
+
+
+
+
+/* start client part */
+.w{
+    text-align: center;
+}
+.o{
+    text-align: center;
+}
+
+.r{
+    text-align: center;
+}
+.k1{
+    text-align: center;
+}
+.k2{
+    text-align: center;
+}
+
+
+
+.pink{
+    background-color: deeppink;
+    margin-left: 450px;
+    padding: 10px;
+    text-align: center;
+    color: floralwhite;
+    width: 30%;
+  
+    
+}
+.client{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+/* finished client part */
+
+
+
+
+
+
+
+
+
+
+
+/* start footer part */
+
+
+.footer{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+/* finished footer part */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
